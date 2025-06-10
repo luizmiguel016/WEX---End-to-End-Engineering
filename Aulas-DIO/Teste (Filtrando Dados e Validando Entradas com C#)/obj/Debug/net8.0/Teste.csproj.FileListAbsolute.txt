@@ -1,0 +1,28 @@
+C:\temp\Aulas-WEX\Teste\bin\Debug\net8.0\Teste.exe
+C:\temp\Aulas-WEX\Teste\bin\Debug\net8.0\Teste.deps.json
+C:\temp\Aulas-WEX\Teste\bin\Debug\net8.0\Teste.runtimeconfig.json
+C:\temp\Aulas-WEX\Teste\bin\Debug\net8.0\Teste.dll
+C:\temp\Aulas-WEX\Teste\bin\Debug\net8.0\Teste.pdb
+C:\temp\Aulas-WEX\Teste\obj\Debug\net8.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Aulas-WEX\Teste\obj\Debug\net8.0\Teste.AssemblyInfoInputs.cache
+C:\temp\Aulas-WEX\Teste\obj\Debug\net8.0\Teste.AssemblyInfo.cs
+C:\temp\Aulas-WEX\Teste\obj\Debug\net8.0\Teste.csproj.CoreCompileInputs.cache
+C:\temp\Aulas-WEX\Teste\obj\Debug\net8.0\Teste.dll
+C:\temp\Aulas-WEX\Teste\obj\Debug\net8.0\refint\Teste.dll
+C:\temp\Aulas-WEX\Teste\obj\Debug\net8.0\Teste.pdb
+C:\temp\Aulas-WEX\Teste\obj\Debug\net8.0\Teste.genruntimeconfig.cache
+C:\temp\Aulas-WEX\Teste\obj\Debug\net8.0\ref\Teste.dll
+C:\temp\Aulas-WEX\Teste (Filtrando Dados e Validando Entradas com C#)\bin\Debug\net8.0\Teste.exe
+C:\temp\Aulas-WEX\Teste (Filtrando Dados e Validando Entradas com C#)\bin\Debug\net8.0\Teste.deps.json
+C:\temp\Aulas-WEX\Teste (Filtrando Dados e Validando Entradas com C#)\bin\Debug\net8.0\Teste.runtimeconfig.json
+C:\temp\Aulas-WEX\Teste (Filtrando Dados e Validando Entradas com C#)\bin\Debug\net8.0\Teste.dll
+C:\temp\Aulas-WEX\Teste (Filtrando Dados e Validando Entradas com C#)\bin\Debug\net8.0\Teste.pdb
+C:\temp\Aulas-WEX\Teste (Filtrando Dados e Validando Entradas com C#)\obj\Debug\net8.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Aulas-WEX\Teste (Filtrando Dados e Validando Entradas com C#)\obj\Debug\net8.0\Teste.AssemblyInfoInputs.cache
+C:\temp\Aulas-WEX\Teste (Filtrando Dados e Validando Entradas com C#)\obj\Debug\net8.0\Teste.AssemblyInfo.cs
+C:\temp\Aulas-WEX\Teste (Filtrando Dados e Validando Entradas com C#)\obj\Debug\net8.0\Teste.csproj.CoreCompileInputs.cache
+C:\temp\Aulas-WEX\Teste (Filtrando Dados e Validando Entradas com C#)\obj\Debug\net8.0\Teste.dll
+C:\temp\Aulas-WEX\Teste (Filtrando Dados e Validando Entradas com C#)\obj\Debug\net8.0\refint\Teste.dll
+C:\temp\Aulas-WEX\Teste (Filtrando Dados e Validando Entradas com C#)\obj\Debug\net8.0\Teste.pdb
+C:\temp\Aulas-WEX\Teste (Filtrando Dados e Validando Entradas com C#)\obj\Debug\net8.0\Teste.genruntimeconfig.cache
+C:\temp\Aulas-WEX\Teste (Filtrando Dados e Validando Entradas com C#)\obj\Debug\net8.0\ref\Teste.dll

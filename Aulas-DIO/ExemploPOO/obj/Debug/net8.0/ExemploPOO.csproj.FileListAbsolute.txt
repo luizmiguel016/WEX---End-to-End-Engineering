@@ -1,0 +1,14 @@
+C:\temp\Aulas-WEX\ExemploPOO\bin\Debug\net8.0\ExemploPOO.exe
+C:\temp\Aulas-WEX\ExemploPOO\bin\Debug\net8.0\ExemploPOO.deps.json
+C:\temp\Aulas-WEX\ExemploPOO\bin\Debug\net8.0\ExemploPOO.runtimeconfig.json
+C:\temp\Aulas-WEX\ExemploPOO\bin\Debug\net8.0\ExemploPOO.dll
+C:\temp\Aulas-WEX\ExemploPOO\bin\Debug\net8.0\ExemploPOO.pdb
+C:\temp\Aulas-WEX\ExemploPOO\obj\Debug\net8.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Aulas-WEX\ExemploPOO\obj\Debug\net8.0\ExemploPOO.AssemblyInfoInputs.cache
+C:\temp\Aulas-WEX\ExemploPOO\obj\Debug\net8.0\ExemploPOO.AssemblyInfo.cs
+C:\temp\Aulas-WEX\ExemploPOO\obj\Debug\net8.0\ExemploPOO.csproj.CoreCompileInputs.cache
+C:\temp\Aulas-WEX\ExemploPOO\obj\Debug\net8.0\ExemploPOO.dll
+C:\temp\Aulas-WEX\ExemploPOO\obj\Debug\net8.0\refint\ExemploPOO.dll
+C:\temp\Aulas-WEX\ExemploPOO\obj\Debug\net8.0\ExemploPOO.pdb
+C:\temp\Aulas-WEX\ExemploPOO\obj\Debug\net8.0\ExemploPOO.genruntimeconfig.cache
+C:\temp\Aulas-WEX\ExemploPOO\obj\Debug\net8.0\ref\ExemploPOO.dll
