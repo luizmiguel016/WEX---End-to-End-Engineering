@@ -1,0 +1,15 @@
+C:\temp\Projetos-DIO\Desafio-Sistema-Celular\trilha-net-poo-desafio\bin\Debug\net6.0\DesafioPOO.exe
+C:\temp\Projetos-DIO\Desafio-Sistema-Celular\trilha-net-poo-desafio\bin\Debug\net6.0\DesafioPOO.deps.json
+C:\temp\Projetos-DIO\Desafio-Sistema-Celular\trilha-net-poo-desafio\bin\Debug\net6.0\DesafioPOO.runtimeconfig.json
+C:\temp\Projetos-DIO\Desafio-Sistema-Celular\trilha-net-poo-desafio\bin\Debug\net6.0\DesafioPOO.dll
+C:\temp\Projetos-DIO\Desafio-Sistema-Celular\trilha-net-poo-desafio\bin\Debug\net6.0\DesafioPOO.pdb
+C:\temp\Projetos-DIO\Desafio-Sistema-Celular\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Projetos-DIO\Desafio-Sistema-Celular\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.AssemblyInfoInputs.cache
+C:\temp\Projetos-DIO\Desafio-Sistema-Celular\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.AssemblyInfo.cs
+C:\temp\Projetos-DIO\Desafio-Sistema-Celular\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.csproj.CoreCompileInputs.cache
+C:\temp\Projetos-DIO\Desafio-Sistema-Celular\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.sourcelink.json
+C:\temp\Projetos-DIO\Desafio-Sistema-Celular\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.dll
+C:\temp\Projetos-DIO\Desafio-Sistema-Celular\trilha-net-poo-desafio\obj\Debug\net6.0\refint\DesafioPOO.dll
+C:\temp\Projetos-DIO\Desafio-Sistema-Celular\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.pdb
+C:\temp\Projetos-DIO\Desafio-Sistema-Celular\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.genruntimeconfig.cache
+C:\temp\Projetos-DIO\Desafio-Sistema-Celular\trilha-net-poo-desafio\obj\Debug\net6.0\ref\DesafioPOO.dll
