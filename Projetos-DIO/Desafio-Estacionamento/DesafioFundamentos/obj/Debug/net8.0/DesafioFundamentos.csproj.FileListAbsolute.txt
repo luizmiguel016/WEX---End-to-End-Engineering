@@ -1,0 +1,15 @@
+C:\temp\Projetos-DIO\Desafio-Estacionamento\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.exe
+C:\temp\Projetos-DIO\Desafio-Estacionamento\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.deps.json
+C:\temp\Projetos-DIO\Desafio-Estacionamento\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.runtimeconfig.json
+C:\temp\Projetos-DIO\Desafio-Estacionamento\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.dll
+C:\temp\Projetos-DIO\Desafio-Estacionamento\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.pdb
+C:\temp\Projetos-DIO\Desafio-Estacionamento\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Projetos-DIO\Desafio-Estacionamento\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.AssemblyInfoInputs.cache
+C:\temp\Projetos-DIO\Desafio-Estacionamento\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.AssemblyInfo.cs
+C:\temp\Projetos-DIO\Desafio-Estacionamento\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+C:\temp\Projetos-DIO\Desafio-Estacionamento\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.sourcelink.json
+C:\temp\Projetos-DIO\Desafio-Estacionamento\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.dll
+C:\temp\Projetos-DIO\Desafio-Estacionamento\DesafioFundamentos\obj\Debug\net8.0\refint\DesafioFundamentos.dll
+C:\temp\Projetos-DIO\Desafio-Estacionamento\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.pdb
+C:\temp\Projetos-DIO\Desafio-Estacionamento\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.genruntimeconfig.cache
+C:\temp\Projetos-DIO\Desafio-Estacionamento\DesafioFundamentos\obj\Debug\net8.0\ref\DesafioFundamentos.dll
