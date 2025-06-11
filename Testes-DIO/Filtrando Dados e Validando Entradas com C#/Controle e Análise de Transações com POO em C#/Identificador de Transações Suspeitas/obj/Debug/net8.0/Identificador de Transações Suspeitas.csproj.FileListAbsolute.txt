@@ -1,0 +1,14 @@
+C:\temp\Testes-DIO\Controle e Análise de Transações com POO em C#\Identificador de Transações Suspeitas\bin\Debug\net8.0\Identificador de Transações Suspeitas.exe
+C:\temp\Testes-DIO\Controle e Análise de Transações com POO em C#\Identificador de Transações Suspeitas\bin\Debug\net8.0\Identificador de Transações Suspeitas.deps.json
+C:\temp\Testes-DIO\Controle e Análise de Transações com POO em C#\Identificador de Transações Suspeitas\bin\Debug\net8.0\Identificador de Transações Suspeitas.runtimeconfig.json
+C:\temp\Testes-DIO\Controle e Análise de Transações com POO em C#\Identificador de Transações Suspeitas\bin\Debug\net8.0\Identificador de Transações Suspeitas.dll
+C:\temp\Testes-DIO\Controle e Análise de Transações com POO em C#\Identificador de Transações Suspeitas\bin\Debug\net8.0\Identificador de Transações Suspeitas.pdb
+C:\temp\Testes-DIO\Controle e Análise de Transações com POO em C#\Identificador de Transações Suspeitas\obj\Debug\net8.0\Identificador de Transações Suspeitas.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Testes-DIO\Controle e Análise de Transações com POO em C#\Identificador de Transações Suspeitas\obj\Debug\net8.0\Identificador de Transações Suspeitas.AssemblyInfoInputs.cache
+C:\temp\Testes-DIO\Controle e Análise de Transações com POO em C#\Identificador de Transações Suspeitas\obj\Debug\net8.0\Identificador de Transações Suspeitas.AssemblyInfo.cs
+C:\temp\Testes-DIO\Controle e Análise de Transações com POO em C#\Identificador de Transações Suspeitas\obj\Debug\net8.0\Identificador de Transações Suspeitas.csproj.CoreCompileInputs.cache
+C:\temp\Testes-DIO\Controle e Análise de Transações com POO em C#\Identificador de Transações Suspeitas\obj\Debug\net8.0\Identificador de Transações Suspeitas.dll
+C:\temp\Testes-DIO\Controle e Análise de Transações com POO em C#\Identificador de Transações Suspeitas\obj\Debug\net8.0\refint\Identificador de Transações Suspeitas.dll
+C:\temp\Testes-DIO\Controle e Análise de Transações com POO em C#\Identificador de Transações Suspeitas\obj\Debug\net8.0\Identificador de Transações Suspeitas.pdb
+C:\temp\Testes-DIO\Controle e Análise de Transações com POO em C#\Identificador de Transações Suspeitas\obj\Debug\net8.0\Identificador de Transações Suspeitas.genruntimeconfig.cache
+C:\temp\Testes-DIO\Controle e Análise de Transações com POO em C#\Identificador de Transações Suspeitas\obj\Debug\net8.0\ref\Identificador de Transações Suspeitas.dll
